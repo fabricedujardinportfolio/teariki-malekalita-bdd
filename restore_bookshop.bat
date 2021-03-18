@@ -1,0 +1,1 @@
+mysql -u root -p bookshop < backups\bookshop-save190320.sql
