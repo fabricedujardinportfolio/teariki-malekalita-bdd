@@ -8,10 +8,10 @@ L'objectif de ce projet était de réaliser en groupe de 2 une base de donnée r
 
 Dans ce projet, vous pourrez retrouvez les différents fichiers qui répondent à la demande.
 
-### MCD :
+### Présentation du projet :
+#### MCD :
 Dans le MCD, pour la table "books" nous avons décidés de nous baser sur les noms des colonnes du fichier.csv, pour faciliter l'import des données.
 
-### Présentation du projet :
 #### Script
 Vous pourrez retrouver les différents scripts qui vous permettront d'installer la base de donnée sur votre ordinateur : 
  - "create_db_bookshop.bat", vous servira à installer la base de donnée, et créer les différentes tables (appel le script "create_db_bookshop.bat" pour l'exécution). 
