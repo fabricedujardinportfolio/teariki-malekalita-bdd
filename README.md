@@ -32,6 +32,7 @@ Nous avons choisis de procéder de cette manière pour être sûre que le script
 INSERT INTO books (title, author, genre, height, publisher)
 VALUES
 ('Harry Potter à l'école des sorciers', 'J.K Rowlings', 'science_fiction', 330, 'poche');
+ - Créer le dossier "backup" dans le dossier du projet. 
  
 
 
