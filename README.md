@@ -27,7 +27,7 @@ Nous avons choisis de procéder de cette manière pour être sûre que le script
 ### Spécification du projet :
  - Pour le fichier "books.csv" pour l'import des données, doit se situer dans le dossier "Uploads" (C:\ProgramData\MySQL\MySQL Server 8.0\Uploads) pour autoriser l'import des données dans notre base de données.
  - Dans Le fichier "books.csv", nous avons décidés de supprimer la première ligne pour ne pas à avoir à inclure la commande "IGNORE 1 LINES".
- - Pour vérifier la sauvegarde avec le script "save_db.bat" ajouter une donnée lambda : 
+ - Pour vérifier la sauvegarde avec le script "save_bookshop.bat" ajouter une donnée lambda : 
  
 INSERT INTO books (title, author, genre, height, publisher)
 VALUES
